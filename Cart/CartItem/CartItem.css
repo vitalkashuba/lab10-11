@@ -1,0 +1,25 @@
+.list-group-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.cart-item-details {
+  flex: 1;
+  display: flex;
+  justify-content: space-between;
+}
+
+.cart-item-quantity {
+  display: flex;
+  align-items: center;
+}
+
+.quantity-text {
+  font-weight: bold;
+  margin: 0 0.5rem;
+}
+.text-muted{
+  font-weight: bolder;
+  margin-right: 25px;
+}
